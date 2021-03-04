@@ -3,4 +3,4 @@ image:
 
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
-    command: python3 EvenOdd.py
+    command: python2 EvenOdd.py
